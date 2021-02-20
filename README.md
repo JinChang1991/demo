@@ -17,3 +17,6 @@
 
 ## 备  注：
          pip3 install v4l2
+
+# 文件夹： get_filename_path
+## 功  能： 获取文件的名称和绝对路径
